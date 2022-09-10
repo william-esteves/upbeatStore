@@ -27,7 +27,7 @@ body {
   font-size: 1.6rem;
   min-width: 30rem;
   scroll-behavior: smooth;
-  width: 100vw;
+  width: 100%;
 }
 
 .header {
@@ -39,7 +39,7 @@ body {
   height: 8vh;
   justify-content: space-between;
   padding: 0 2rem;
-  width: 100vw;
+  width: 100%;
 }
 
 .header__icons i {
@@ -208,7 +208,7 @@ body {
   min-height: 36vh;
   padding: 4rem;
   text-align: center;
-  width: 100vw;
+  width: 100%;
 }
 
 .footer__box--logo h4 {
@@ -297,5 +297,6 @@ body {
     color: #bb590e;
     display: block;
     text-decoration: none;
+
   }
 }
